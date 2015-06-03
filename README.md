@@ -1,1 +1,4 @@
-# node-rest-api-example
+node-rest-seed
+==============
+
+Node REST application seed (Express + Mongoose)
